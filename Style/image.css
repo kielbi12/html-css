@@ -1,0 +1,20 @@
+img{
+    margin: auto;
+    display: block;
+    border-color: black;
+    border-width: medium;
+    border-style: dashed;
+    border-radius: 25px;
+}
+body{
+    background-color: coral;
+}
+.lista{
+    list-style: upper-roman;
+    list-style-position: inside;
+    position: absolute;
+    top: 2px;
+    right: 500px;
+
+
+}
