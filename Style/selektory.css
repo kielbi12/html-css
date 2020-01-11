@@ -1,0 +1,30 @@
+table {
+    border: 1px solid;
+    width: 80%;
+    alignment: center;
+    font-style: italic;
+
+}
+
+#identyfikator {
+    background-color: green;
+    font-language-override: normal;
+}
+
+.mojeKlasa {
+    font-style: inherit;
+    color: blue;
+}
+
+.drugaKlasa {
+    background-color: aqua;
+    size: 10px;
+}
+
+.mojeKlasa.drugaKlasa {
+    color: red;
+}
+
+[align="center"]{
+    font-size: larger;
+}
